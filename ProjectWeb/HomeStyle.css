@@ -26,7 +26,7 @@
  .aside{
      float: right;
      width: 250px;
-     height: 250px;
+     height: 300px;
      margin-top: 20px;
      background-color:#006699;
      position: relative;
@@ -37,6 +37,16 @@
  .aside p{
      color: white;
      padding: 5px 5px;
+ }
+
+ .aside ul{
+     color: white;
+
+ }
+
+ .aside a{
+     text-decoration: none;
+     color: white;
  }
 
 
